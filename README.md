@@ -25,7 +25,7 @@ bash T-root.sh
 
 ###### Para activar los privilegios solo se textea la palabra root y cuando el PS1($) muestre # ya estará activado el servicio. Para desactivarlo solo se textea exit para salir de él
 
-#### By: Angel Del Villar 
+#### By: 🔮Angel Del Villar🔮 
 
 
 ###### Esta información es solo con fines educativos e informativos, el mal uso es responsabilidad de quien la utilize.
